@@ -8,6 +8,9 @@ We care about practical learning systems that work across languages, devices, an
 
 - Website: https://www.koydo.app
 - LinkedIn: https://www.linkedin.com/company/koydo
+- YouTube: https://www.youtube.com/@koydolearn
+- X: https://x.com/koydolearn
+- Facebook: https://www.facebook.com/profile.php?id=61590434218280
 - Public information: https://github.com/koydo/koydo-public
 - Open curriculum principles: https://github.com/koydo/open-curriculum
 
@@ -25,4 +28,4 @@ Koydo's public GitHub presence currently contains general information, public pr
 
 ## Contact
 
-For partnership, education, or platform inquiries, use the public Koydo website or LinkedIn page.
+For partnership, education, or platform inquiries, use the public Koydo website, LinkedIn page, or official social channels listed above.
