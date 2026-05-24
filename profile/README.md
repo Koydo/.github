@@ -18,6 +18,8 @@ We care about practical learning systems that work across languages, devices, an
 - Rumble: https://rumble.com/user/Koydo
 - Pinterest: https://www.pinterest.com/koydolearn/
 - Medium: https://medium.com/@koydolearn
+- Mastodon: https://mastodon.social/@koydo
+- Substack: https://substack.com/@koydo
 - Public information: https://github.com/koydo/koydo-public
 - Open curriculum principles: https://github.com/koydo/open-curriculum
 
