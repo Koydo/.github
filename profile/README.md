@@ -16,6 +16,8 @@ We care about practical learning systems that work across languages, devices, an
 - Gab: https://gab.com/Koydo
 - Truth Social: https://truthsocial.com/@Koydo
 - Rumble: https://rumble.com/user/Koydo
+- Pinterest: https://www.pinterest.com/koydolearn/
+- Medium: https://medium.com/@koydolearn
 - Public information: https://github.com/koydo/koydo-public
 - Open curriculum principles: https://github.com/koydo/open-curriculum
 
