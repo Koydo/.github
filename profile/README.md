@@ -14,6 +14,8 @@ We care about practical learning systems that work across languages, devices, an
 - Facebook: https://www.facebook.com/profile.php?id=61590434218280
 - Bluesky: https://bsky.app/profile/koydolearn.bsky.social
 - Gab: https://gab.com/Koydo
+- Truth Social: https://truthsocial.com/@Koydo
+- Rumble: https://rumble.com/user/Koydo
 - Public information: https://github.com/koydo/koydo-public
 - Open curriculum principles: https://github.com/koydo/open-curriculum
 
